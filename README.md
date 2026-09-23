@@ -45,3 +45,4 @@
 
 7\. Result  
            The Radar Guard system using an ultrasonic sensor and servo motor was successfully constructed and tested. The system detects objects at different angles and indicates their presence based on the measured distance.  
+![Result](circuit.jpeg)
